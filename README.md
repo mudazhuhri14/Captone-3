@@ -1,3 +1,5 @@
+streamlit : https://captone-3-chatbot-film.streamlit.app/
+
 # 🎬 Movies Recommendation base on Feeling
 
 > Chatbot rekomendasi film berbasis mood menggunakan RAG (Retrieval-Augmented Generation) dengan database IMDB Top 1000 dan Qdrant Vector Database.
